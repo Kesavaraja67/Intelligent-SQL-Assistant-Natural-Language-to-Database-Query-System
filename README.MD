@@ -152,9 +152,9 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## 🙋‍♂️ Author
 
-**Thanka Bharathi T M**  
+**Kesavaraja M**  
 Data Scientist & AI Developer  
-🌐 [LinkedIn](https://www.linkedin.com/in/thankabharathi) | ✨ [Portfolio](https://thankabharathi.vercel.app)
+🌐 [LinkedIn](https://www.linkedin.com/in/kesavaraja-m-228913289/) |
 
 ---
 

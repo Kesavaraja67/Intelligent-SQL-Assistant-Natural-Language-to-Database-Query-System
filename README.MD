@@ -1,6 +1,5 @@
 
-# 🧠 Intelligent SQL Assistant: Natural Language to Database Query System
-
+# 🧠 Smart-Query-Translator-From-Human-Language-to-SQL
 [![Streamlit App](https://img.shields.io/badge/Try%20It%20Live-Streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)](https://intelligent-sql-assistant-natural-language-to-database-query-s.streamlit.app)
 
 An AI-powered web application that allows users to convert natural language queries into SQL queries and retrieve results from a connected database. This tool bridges the gap between human language and database interaction, enabling non-technical users to access structured data efficiently.

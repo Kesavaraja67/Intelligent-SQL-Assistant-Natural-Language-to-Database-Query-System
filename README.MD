@@ -8,7 +8,7 @@ An AI-powered web application that allows users to convert natural language quer
 
 ## 🚀 Demo
 
-👉 **Live App:** [Intelligent SQL Assistant](https://intelligent-sql-assistant-natural-language-to-database-query-s.streamlit.app)
+👉 **Live App:** [Intelligent SQL Assistant](https://smart-query-translator-from-human-language-to-sql.streamlit.app/)
 
 ---
 
